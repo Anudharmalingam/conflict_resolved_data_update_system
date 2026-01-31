@@ -1,0 +1,27 @@
+USER
+name
+email
+password
+role: user/admin
+
+REQUEST
+requestedby
+requestedto
+requestedon
+actiontaken
+status
+
+RECORD
+recordid
+recorddate
+version
+lastUpdatedBy
+lastUpdatedOn
+
+CONFLICT
+Conflictid
+recordid
+requestedby
+clientversion
+conflictDetectionOn
+resolutionStratergy
